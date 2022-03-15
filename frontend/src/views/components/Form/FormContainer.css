@@ -1,0 +1,43 @@
+/** @format */
+
+.form-container::before {
+  flex-grow: 1;
+  content: '';
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  margin: auto 0;
+}
+.form-container::after {
+  flex-grow: 1;
+  content: '';
+}
+.form-root {
+  margin: 0 auto;
+  border-radius: 8px;
+  padding: 48px 24px;
+}
+.form-sm {
+  min-width: 500px;
+}
+.form-md {
+  min-width: 900px;
+}
+.form-lg {
+  min-width: 1200px;
+}
+.form-xl {
+  min-width: 1536px;
+}
+.form-title {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0px 48px 48px;
+}
+.form-title > p {
+  margin-top: 16px;
+}

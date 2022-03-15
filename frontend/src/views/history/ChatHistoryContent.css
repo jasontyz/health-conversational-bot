@@ -1,0 +1,9 @@
+.chat-history-list-view {
+  margin: 8px;
+}
+.chat-history-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+}

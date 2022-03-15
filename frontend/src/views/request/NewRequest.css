@@ -1,0 +1,17 @@
+.NewRequest-spacing.MuiContainer-root {
+  margin: 16px auto;
+  padding: 16px;
+}
+.NewRequest-spacing.MuiTextField-root {
+  margin-bottom: 8px;
+}
+
+.NewRequest-alert.MuiContainer-root {
+  margin: 8px auto;
+}
+.NewRequest-alert.MuiAlert-root {
+  margin: 8px auto;
+}
+.NewRequest-alert ul {
+  margin-bottom: 0px;
+}

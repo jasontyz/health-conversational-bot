@@ -1,0 +1,13 @@
+.chat-container {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+}
+.chat-history {
+  flex-grow: 1;
+  display: flex;
+  align-items: stretch;
+}
+.chat-input-bar {
+  margin: 0 16px;
+}

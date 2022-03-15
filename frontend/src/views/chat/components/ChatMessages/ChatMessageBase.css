@@ -1,0 +1,10 @@
+.chat-message-extras {
+  padding-top: 8px;
+}
+
+.chat-message-text.MuiTypography-root {
+  padding: 0 8px;
+}
+.clickable:hover {
+  cursor: pointer;
+}

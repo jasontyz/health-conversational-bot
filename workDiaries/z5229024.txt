@@ -1,0 +1,42 @@
+Week 1
+Chosed a project and formed a team with other students opting for the same project. Introduced myself to other team members and get to know each others
+technical skills. Set up Microsoft Teams for communication. Brainstormed ideas for project during lab session.
+
+Week 2
+Had our first meeting as a group. Studied and understood the project requirements so we could start working on proposal.
+We started by creating a proposal template so everyone could work on it together.
+Delegated tasks for each member of our team. Decided to meet again in the same week.
+
+During second meeting, we started working on UI wireframing.
+We had also decided the features and novelty features that we want to include in the project. Next, we each 
+contributed to user stories in Jira backlog.
+
+Worked on proposal.
+
+Week 3
+Finalised the proposal. Read through the whole proposal and checked each others part. 
+
+Had another meeting during the weekend for final check before submission. Submitted the proposal and decided user stories to complete
+in Sprint 1.
+
+Week 4
+Started development work on the project.
+
+I am in charge of working on DialogFlow for Natural Language Understanding and integration into our project in Python.
+
+Week 5
+Had meeting to practice for the demo and try to catch bugs. We found a few bugs and managed to fix some before the demo. During demo, the Infermedica API was down so we had to reschedule the demo. 
+
+We did the demo again on the rescheduled time and everything went well. After the demo we worked on the Retrospective A.
+
+Week 6 
+Plan for Sprint 2 and delegate tasks to each member. After that we start on the development for Sprint 2.
+
+Week 7
+I am in charge of integrating API for Google Maps, health news, and scraping data. We discussed about the JSON data structure for Frontend and Backend so everything can integrate well. We also document it in an API documentation.
+
+Week 8
+Finished integration of APIs and web scraping. Did 2nd Demonstration and completed Retrospective B. After that, we complete sprint 2 and start discussing for sprint 3. 
+
+Week 9
+My task for sprint 3 is to integrate our chatbot into Discord.

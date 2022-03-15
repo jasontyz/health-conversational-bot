@@ -1,0 +1,68 @@
+Week 1
+
+Introduce myself, familiar with teammate and group for chatbot is created. I made a Team channel for team communication.
+I looked at the proposal requirement and made a skeleton based on the keyword. 
+
+We agree the hold our first team internal meeting at Mon 9.20 10am
+
+Week 2
+
+Meeting 1 Mon
+Create meeting minutes templates and use it.
+Made a basic proposal template (with only title page, heading based on proposal specs)
+We all brainstorm user stories, functionalities, etc
+ 
+Meeting 2 Sun
+Add basic draft on prototyping tool balsamiq for UI design.
+Complete the problem statement and novelty part for the proposal.
+Play around with dialogflow.
+We all add some user stories with their related epic stories to the Jira backlog.
+Plan next meeting on Tue 8pm.
+
+Week 3 
+
+FInalised proposal together.
+Start code on login, register flask / mongodb setup
+
+Week 4 
+
+Set up mongodb altas database & symptom checker with endlessmedical api but infermedica is used (by Yuan) since it is more powerful.
+
+Week 5
+
+Plan on Sprint 2, assigned task for covid cases, hotspot, food recommendation.
+
+Week 6
+
+start web scrape and find websites .
+Tried Selenium but gives same result as BeautifulSoup when scrape javascript dynamic generated table.
+So the soup is used as it is faster and lightweight. Selenium requires chrome or firefox core (~300mb) to be installed.
+
+Week 7
+
+Finalised assigned tasks. Testing on WSL2.
+add more training data to my part on dialogflow
+we start draft retro
+
+Week 8 
+
+Assigned task - integration and give vaccine info user story to Dianze
+we finish retro
+
+Week 9
+
+Finish integration to messenger and start adding comments and minor design to my part.
+We discuss about how to do the presentation and report
+report Deadline set to Wednesday
+meeting Mon to pratise demo
+Install lubuntu and start testing compatibility.
+
+Week 10
+
+Prepare demo, add covid symptom check to integration and finish plaintext.py which could used for all 
+integration.
+Facebook needs webhook and so use ngrok over other tunneling tool since it is reliable.
+Testing - thou it is shown that if everything is started in the lubuntu, 3cpus 8g ram shown really slow by yen's 
+For whatever reason, unfortunity, the integration part may not be run in China due to network issue.
+E.g. the facebook developer portal cannot be login there.
+continuing finishing report and required assessment

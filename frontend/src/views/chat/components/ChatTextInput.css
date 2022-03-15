@@ -1,0 +1,18 @@
+.chat-textfield-container {
+  margin: 0 8px 8px;
+  display: flex;
+}
+
+.MuiOutlinedInput-root.chat-textfield {
+  border-radius: 32px;
+  flex-grow: 1;
+}
+
+.MuiOutlinedInput-root.chat-textfield > input {
+  padding: 8px 16px;
+}
+.chat-textfield-container > button {
+  min-height: 55px;
+  min-width: 55px;
+  margin-left: 8px;
+}

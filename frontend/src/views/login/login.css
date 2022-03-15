@@ -1,0 +1,10 @@
+/** @format */
+
+.login-button-bar {
+  display: flex;
+  align-items: center;
+}
+
+.link-to-register {
+  margin-left: 16px;
+}

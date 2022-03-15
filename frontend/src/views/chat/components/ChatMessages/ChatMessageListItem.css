@@ -1,0 +1,39 @@
+.MuiPaper-root.CM-list-item {
+  display: flex;
+  flex-direction: row;
+  margin: 8px 16px;
+  align-items: stretch;
+}
+.CM-list-item-icon {
+  display: flex;
+  flex-direction: column;
+  margin-right: 8px;
+}
+
+.CM-list-item-wrapper {
+  display: flex;
+  flex-direction: row;
+  margin: 8px 24px 8px 16px;
+}
+.CM-list-item-icon::before {
+  content: '';
+  display: block;
+  flex-grow: 1;
+}
+.CM-list-item-icon::after {
+  content: '';
+  display: block;
+  flex-grow: 1;
+}
+.CM-list-item-content {
+  display: flex;
+  flex-direction: column;
+  margin-left: 8px;
+}
+.MuiTypography-root.text-ellipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  display: block;
+  max-width: 320px;
+}

@@ -1,0 +1,8 @@
+.chat-history-content {
+  flex-grow: 1;
+  height: unset;
+}
+.chat-history-item {
+  display: flex;
+  flex-direction: row;
+}

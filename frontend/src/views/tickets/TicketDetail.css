@@ -1,0 +1,20 @@
+.TicketDetail-spacing.MuiTypography-root {
+  padding: 8px 0;
+}
+.TicketDetail-spacing.MuiGrid-root {
+  padding: 8px 0;
+}
+.TicketDetail-list {
+  max-height: 240px;
+}
+
+.TicketDetail-Message.MuiTypography-root {
+  padding: 8px 0;
+  max-height: 240px;
+}
+.TicketDetail-spacing.MuiTextField-root {
+  margin: 16px 0;
+}
+.TicketDetail-spacing {
+  margin: 8px 0;
+}

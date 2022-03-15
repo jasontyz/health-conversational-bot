@@ -1,0 +1,7 @@
+.covid-figure-container {
+  text-align: center;
+  margin: 8px 16px;
+}
+.MuiTypography-root.covid-figure-number {
+  margin: -8px 0 0px 0;
+}

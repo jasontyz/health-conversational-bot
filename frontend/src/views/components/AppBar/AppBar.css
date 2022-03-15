@@ -1,0 +1,10 @@
+.appbar-settings-icon {
+  color: white;
+}
+.MuiTypography-root.appbar-button-text {
+  color: white;
+}
+
+.appbar-container {
+  z-index: 99;
+}

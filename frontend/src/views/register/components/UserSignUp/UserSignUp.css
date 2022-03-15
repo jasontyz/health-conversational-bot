@@ -1,0 +1,7 @@
+.fields-row {
+  display: flex;
+  flex-direction: row;
+}
+.fields-row > div {
+  flex-grow: 1;
+}
